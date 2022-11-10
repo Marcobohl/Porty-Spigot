@@ -12,9 +12,9 @@ Moehritz: https://github.com/Moehritz
 
 # Plugin Infos
 - Version: 1.19.2
-- Pluginart: Bungeecord
+- Pluginart: Spigot
 - Alle Nachrichten Editierbar in der Config
-- Wird benötigt: Porty Spigot - muss au allen unter server installiert werden.
+- Wird benötigt: Porty BUngee - 
 
 # Commands:
 - /tp <player> <player>
