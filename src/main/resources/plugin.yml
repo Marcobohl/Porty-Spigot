@@ -1,0 +1,7 @@
+name: Portyspigot
+version: '${project.version}'
+main: de.marcobohl.portyspigot.Porty
+api-version: 1.19
+authors: Moehritz reworked by Marcobohl
+description: Tpa Spigot
+website: marcobohl.de
