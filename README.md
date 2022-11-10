@@ -14,7 +14,7 @@ Moehritz: https://github.com/Moehritz
 - Version: 1.19.2
 - Pluginart: Spigot
 - Alle Nachrichten Editierbar in der Config
-- Wird benötigt: Porty BUngee - 
+- Wird benötigt: Porty Bungee - Muss auf dem Proxy installiert werden. - https://github.com/Marcobohl/Porty-Bungee
 
 # Commands:
 - /tp <player> <player>
